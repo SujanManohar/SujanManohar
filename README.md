@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Data analytics and machine learning projects focused on real-world business problems, including forecasting, pricing optimization, and dashboarding using Python, SQL, and Tableau.<br>👯 I’m looking to collaborate on<br>Data analytics, machine learning, and business intelligence projects where data can drive better decisions and measurable impact.<br>🤝 I’m looking for help with<br>Advanced machine learning techniques, model deployment, and transitioning analytics projects into production-ready solutions.<br>🌱 I’m currently learning<br>Machine learning, data engineering fundamentals, cloud platforms (AWS), and improving my end-to-end project storytelling skills.<br>💬 Ask me about<br>Data analysis, time series forecasting, Tableau dashboards, Python projects, or how to turn messy data into clear insights.<br>⚡ Fun fact<br>I enjoy blending analytics with creativity, whether it’s building data-driven projects or planning long-term entrepreneurial ideas.
+# 🚀About Me:
+I’m currently working on
+End-to-end data analytics and machine learning projects that solve concrete business problems, with a strong focus on forecasting, pricing analysis, and decision-support dashboards using Python, SQL, and Tableau.
+👯 I’m looking to collaborate on
+Well-defined analytics, machine learning, or BI projects where data is used to answer clear business questions and drive measurable outcomes.
+🤝 I’m looking for help with
+Productionizing ML models, improving deployment workflows, and applying best practices for scalable, real-world analytics systems.
+🌱 I’m currently learning
+Applied machine learning, data engineering fundamentals, cloud platforms (AWS), and how to communicate technical results clearly to non-technical stakeholders.
+💬 Ask me about
+Data analysis, time series forecasting, Python-based ML projects, Tableau dashboards, or structuring analytics projects from raw data to insights.
+⚡ Fun fact
+I like building things that last, whether it’s data products, long-term projects, or systems designed for scale and impact.
 
 
 ## 🌐 Socials:
